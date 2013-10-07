@@ -2,7 +2,6 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.xantec.deal4u"
         version   = "1.0.0">
-    <icon src="icon.png" />
     <gap:plugin name="com.phonegap.plugins.pushplugin" />
 </widget>
 
