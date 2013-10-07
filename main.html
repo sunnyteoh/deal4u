@@ -1,4 +1,6 @@
 <script>
+  <script type="text/javascript" src="PushNotification.js"></script>
+  
   var pushNotification = window.plugins.pushNotification;
   pushNotification.register(app.successHandler, app.errorHandler,{"senderID":"227717669789","ecb":"app.onNotificationGCM"});
 
