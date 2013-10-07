@@ -1,2 +1,1 @@
-<script type="text/javascript" src="PushNotification.js"></script>
 <gap:plugin name="com.adobe.plugins.pushplugin" />
